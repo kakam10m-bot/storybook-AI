@@ -1,0 +1,27 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="512" height="512" rx="128" fill="url(#bg_gradient)"/>
+    
+    <!-- Book Shape -->
+    <path d="M128 394.667V149.333C128 135.029 139.029 117.333 153.333 117.333H358.667C372.971 117.333 384 135.029 384 149.333V394.667C384 408.971 372.971 394.667 358.667 394.667H153.333C139.029 394.667 128 408.971 128 394.667Z" fill="#FDE68A"/>
+    <path d="M256 117.333V405.333" stroke="#FBBF24" stroke-width="12" stroke-linecap="round"/>
+    
+    <!-- Quill Pen -->
+    <path d="M224 234.667C266.667 192 341.333 181.333 373.333 170.667L341.333 138.667C309.333 149.333 256 160 202.667 213.333" fill="#78350F"/>
+    
+    <!-- Quill Glow -->
+    <circle cx="218.667" cy="240" r="16" fill="#FCD34D"/>
+    <circle cx="218.667" cy="240" r="24" fill="#FCD34D" fill-opacity="0.4"/>
+
+    <!-- Sparkles -->
+    <path d="M288 192L298.667 181.333L309.333 192L298.667 202.667L288 192Z" fill="#FDE047"/>
+    <path d="M192 192L200 184L208 192L200 200L192 192Z" fill="#FDE047" opacity="0.7"/>
+    <circle cx="320" cy="245.333" r="8" fill="#FDE047"/>
+
+    <defs>
+        <radialGradient id="bg_gradient" cx="0.5" cy="0.5" r="0.8" fx="0.25" fy="0.25">
+            <stop stop-color="#573B1A"/>
+            <stop offset="1" stop-color="#422006"/>
+        </radialGradient>
+    </defs>
+</svg>

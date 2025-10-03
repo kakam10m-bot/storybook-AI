@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Storybook Creator",
+  "description": "An application that allows users to create a storybook by providing scene descriptions. AI generates an image for each scene, and the final story can be exported as a PDF.",
+  "requestFramePermissions": []
+}
